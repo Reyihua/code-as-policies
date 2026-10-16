@@ -1,0 +1,8 @@
+.tools/
+.venv/
+__pycache__/
+*.egg-info/
+paper-extracted.txt
+.env
+build/
+dist/
